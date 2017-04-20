@@ -1,0 +1,23 @@
+{
+  "name": "ull-shape-rectangle-alberto-diego",
+  "version": "1.0.0",
+  "description": "Clase Square que hereda de la clase Shape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.1",
+    "ull-shape-alberto-diego": "^1.0.0"
+  },
+  "contributors": [
+    {
+      "name": "Alberto",
+      "email": "alu0100825510@ull.edu.es",
+      "url": "https://github.com/alu0100825510"
+    }
+  ]
+}
