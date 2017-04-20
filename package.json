@@ -1,5 +1,5 @@
 {
-  "name": "ull-shape-rectangle-alberto-diego",
+  "name": "ull-shape-square-alberto-diego",
   "version": "1.0.0",
   "description": "Clase Square que hereda de la clase Shape",
   "main": "index.js",
